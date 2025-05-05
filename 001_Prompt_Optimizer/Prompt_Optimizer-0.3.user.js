@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ChatGPT Prompt Auto-Optimizer
+// @name         Prompt_Optimizer
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Automatically optimize prompts and send them for questioning
